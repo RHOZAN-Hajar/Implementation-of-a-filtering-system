@@ -10,3 +10,8 @@ Designed and configured secure network architectures.
 Developed and tested practical security rules.
 Assessed the resilience of configurations using real-world attack scenarios.
 ![image](https://github.com/user-attachments/assets/66cc4cd0-a8d1-4ed3-bfa9-6b7298b3e1cc)
+
+
+ # You'll need for this project
+ 1.Packet Tracer this tutorial will help you to download packet tracer https://www.packettracernetwork.com/download/download-packet-tracer.html 
+ 2.kali linux or ubunto this link will help you https://www.kali.org/get-kali/#kali-platforms
